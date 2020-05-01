@@ -1,4 +1,4 @@
-# DST2_group_project
+# DST2_group_project_group5
 DST2_group_project, MedMatching （M&amp;M）
 # Group allocation
 Sequence analysis (1 person): Hanqi
